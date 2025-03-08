@@ -1,0 +1,3 @@
+1. odd Even 
+2. two number gretter than 
+3. find number which is divisible by 3,5 both 
