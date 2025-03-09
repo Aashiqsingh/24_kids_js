@@ -45,22 +45,25 @@
 
 // nested if Else
 
-var isAlive = true;
-var age = 16;
+// var isAlive = true;
+// var age = 16;
 
-if(isAlive == true)
-{
-    console.log("The man is alive..");
-    if(age > 18)
-    {
-        console.log("He is adult");
-    }
-    else{
-        console.log("He is child");
-    }
+// if(isAlive == true)
+// {
+//     console.log("The man is alive..");
+//     if(age > 18)
+//     {
+//         console.log("He is adult");
+//     }
+//     else{
+//         console.log("He is child");
+//     }
     
-}   
-else{
-    console.log("DEAD");
+// }   
+// else{
+//     console.log("DEAD");
     
-} 
+// } 
+
+
+console.log(Math.floor(13/3));
