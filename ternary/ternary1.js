@@ -32,9 +32,20 @@
 // var x = num % 2 == 0 ? "Even" : "Odd";
 // console.log(x);
 
-var a = 19;
-var b = 18;
-var c = 17;
+// var a = 23;
+// var b = 22;
+// var c = 21;
+
+
+// var ans = a > b ? (a > c ? "A is gretter" : "C is gretter") : (b > c ? "B is gretter" : "C is gretter");
+// console.log(ans);
+
+
+
+// var ans = a > b ? (a > c ? a : c) : (b > c ? b : c);
+
+// console.log(ans + " is gretter");
+
 
 
 
