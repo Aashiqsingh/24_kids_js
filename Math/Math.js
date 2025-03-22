@@ -15,7 +15,7 @@ console.log(a);
 // console.log(Math.trunc(64.87463));
 
 
-console.log(Math.floor(Math.random() * 10000));
+console.log(Math.floor(1000 + Math.random() * 9000));
 
 
 
