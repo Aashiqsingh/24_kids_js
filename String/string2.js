@@ -19,7 +19,21 @@
 
 // console.log(x);
 
-var str = "Royal technosoft pvt ltd.";
+var str = "          Royal technosoft pvt ltd.          ";
+console.log(str.length);
+
+
+// var x = str.trim()
+// var x = str.trimStart()
+var x = str.trimEnd()
+console.log(x.length);
+
+
+// var x = str.toUpperCase()
+// var x = str.toLowerCase()
+
+// console.log(x);
+
 
 // var x = str.slice(1)
 // var x = str.slice(1,4)
