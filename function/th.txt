@@ -1,0 +1,15 @@
+function - for reusiblity of the code
+
+function demo()
+{
+    // print
+}
+
+demo()
+
+
+there are four types of functions 
+1. without return without argument
+2. without return with argument
+3. with return without argument
+4. with return with argument
