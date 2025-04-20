@@ -1,0 +1,12 @@
+JSON --> JAvascriot object notation
+
+
+key : value
+
+var student = {
+    name:"satva",
+    age:21,
+    email:"satva@gmail.com",
+    gender:"male",
+    status:true
+}
