@@ -1,0 +1,8 @@
+Javascript -- single threded application 
+
+calback
+
+
+
+
+java -- multi threded application
