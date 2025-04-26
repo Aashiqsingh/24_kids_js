@@ -1,3 +1,55 @@
 1. odd Even 
 2. two number gretter than 
 3. find number which is divisible by 3,5 both 
+
+
+
+-------------------------------------------
+ATM
+
+Atm (BOB)
+
+var Upass = 6354
+func checkbal()
+{
+	var avlbal = 35000;
+	return avlbal
+}
+func withd()
+{
+	Enter amount
+	ans = checkbal()
+	if(amount < ans)
+	{
+		succefully withdra
+		ans = ans - amount
+		display ans
+	}
+	{
+		insufficient bal
+	}
+}
+func deposi()
+{
+	ENter amount
+	succefull deposit
+	avlbal += amount
+	dsp avlbal
+}
+Are you enter in atm?
+yes{
+	Enter your acc no:
+	Enter your password:
+	if(pass == Upass)
+	{
+		1. checkal
+		2. withdrwa
+		3. deposit
+	}
+	{
+		password is incorect pls try again
+	}
+}
+no{
+	Thankyou for vising bank
+}
