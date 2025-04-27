@@ -1,0 +1,5 @@
+Array : Array is collection of data.
+
+array : hybrid
+
+
