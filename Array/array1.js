@@ -59,7 +59,6 @@ console.log(users);
 var x = users.unshift("moksh","patel")
 // console.log(x);
 console.log(users);
-
 users.shift()
 
 console.log(users);
