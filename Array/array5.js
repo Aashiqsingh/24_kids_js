@@ -2,6 +2,16 @@ var users = ["ranjha","jay","kishan","ram","seeta","geeta","sravan","mallika"];
 
 
 
+var x = users.filter((user)=>{
+    return user != "sravan"
+})
+
+console.log(x);
+
+
+
+
+
 // map : it will return new array with same length
 
 // var x = users.map((user)=>{
@@ -21,11 +31,11 @@ var users = ["ranjha","jay","kishan","ram","seeta","geeta","sravan","mallika"];
 
 // filter : it will retunr new array with modified data
 
-var x = users.filter((user)=>{
-    return user.length > 5
-})
+// var x = users.filter((user)=>{
+//     return user.length > 5
+// })
 
-console.log(x);
+// console.log(x);
 
 
 
