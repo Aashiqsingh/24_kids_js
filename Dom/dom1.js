@@ -14,8 +14,14 @@ function changeRef(){
     link.innerHTML = "Netflix"
 }
 
-function changeSize(){
+function sizeIncrease(){
     let image = document.getElementById("image")
     image.style.height = "400px";
     image.style.width = "500px"
+}
+
+function sizeDecrease(){
+    let image = document.getElementById("image")
+    image.style.height = "200px";
+    image.style.width = "300px"
 }
