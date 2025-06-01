@@ -50,3 +50,7 @@ const reset = ()=>{
 
     clearInterval(x)
 }
+// aashiq
+
+
+// aas
