@@ -53,3 +53,16 @@ yes{
 no{
 	Thankyou for vising bank
 }
+
+
+
+-------------------------------------------
+
+Ticket booking
+
+button -- static -- Add passenger
+Name :
+Age :
+Gender :
+
+button -- submit
