@@ -40,7 +40,7 @@ function addPass(){
     box.appendChild(emailInput)
     box.appendChild(document.createElement("br"))
     box.appendChild(document.createElement("br"))
-     box.appendChild(btn)
+    box.appendChild(btn)
     box.appendChild(document.createElement("br"))
     box.appendChild(document.createElement("br"))
 
