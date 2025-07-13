@@ -1,0 +1,25 @@
+Promise --- > pending--(fullfill / reject)
+
+Promise -- js -- Class
+
+
+There are two types of way.
+1. sync way
+2. non-sync way
+
+
+non-sync :
+
+
+***************************************
+
+#################################### --> 3 min
+
+***************************************
+
+
+There are two types for create sync.
+1. block sync 
+    - then catch
+2. function sync
+    - async await
